@@ -65,16 +65,18 @@
 
 ### 📊 My GitHub & LeetCode Stats
 <div align="center">
-  <!-- GitHub Stats Card (No Change) -->
+  <!-- GitHub Stats Card (No Change, buefy theme is a clean light theme) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=zhu-jl18&show_icons=true&theme=buefy&icon_color=20B2AA&rank_icon=github" alt="zhu-jl18's GitHub Stats" />
   </a>
   
-  <!-- ✨ 更换为更稳定的 LeetCode 卡片服务 ✨ -->
+  <!-- ✨ 高度定制化的 LeetCode 卡片 ✨ -->
   <a href="https://leetcode.cn/u/sayaka-sato/">
-    <img src="https://stats.justsong.pro/api/leetcode?username=sayaka-sato&cn=true&theme=buefy&show_solved=true&show_progress=true" alt="sayaka-sato's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/sayaka-sato?theme=light&font=Nunito&site=cn&name=makoMako" alt="makoMako's LeetCode Stats"/>
   </a>
 </div>
+
+
 
 
 
