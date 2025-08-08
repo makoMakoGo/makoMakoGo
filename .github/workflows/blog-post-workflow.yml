@@ -15,10 +15,7 @@ jobs:
         with:
           feed_list: "https://zhu-jl18.github.io/atom.xml"
           max_post_count: 5
-          # ✨ 最终美化模板：统一颜色、移除下划线并添加悬停效果 ✨
-          template: '<li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;"><a href="$url" style="text-decoration: none; color: #20B2AA; font-weight: 600;" onmouseover="this.style.color=''#1b9a91''" onmouseout="this.style.color=''#20B2AA''">$title</a><span style="color: #57606a; font-size: 0.9em;">$date</span></li>'
+          # ✨ 最终稳定版模板：移除无效的JS，保留核心样式 ✨
+          template: '<li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;"><a href="$url" style="text-decoration: none; color: #20B2AA; font-weight: 600;">$title</a><span style="color: #57606a; font-size: 0.9em;">$date</span></li>'
           date_format: "yyyy-mm-dd"
           disable_html_encoding: true
-
-
-
