@@ -1,57 +1,64 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=853DF7&hCenter=true&vCenter=true&random=true&width=300&height=20&lines=Hi+there,+I+am+makoMako~)](https://git.io/typing-svg)
-
-
-
-
-
-<h3 align="center">👋 Hi there, I'm Gift Egwuenu</h3>
-
-<p align="center">
-  <a href="">Website</a> •
-  <a href="">X</a> •
-  <a href="">LinkedIn</a> •
-  <a href="">YouTube</a>
-</p>
-
----
-I'm a software engineer and developer advocate with a passion for building accessible websites and fostering inclusive developer communities.
-
-My philosophy is simple: share what I know, stay curious, and create space for others to grow. I enjoy making technical concepts approachable—whether through blog posts, videos, talks, or open source contributions.
-
-Outside of tech, I’m a content creator who enjoys photography, documenting life abroad, and perfecting the art of Nigerian Jollof 🔥
-
----
-
-- 📫 Reach me on [X](_) or [email](mailto:zjl@thegiftcode.dev)  
-- 😄 Pronouns: He him
-
-
-
-<div>
-  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=853DF7&Center=true&vCenter=true&random=true&width=360&height=40&lines=Hi+there,+I+am+makoMako~">
+  </a>
 </div>
 
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhu-jl18/zhu-jl18/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhu-jl18/zhu-jl18/output/github-snake.svg" />
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/zhu-jl18/zhu-jl18/output/github-snake.svg" />
-</picture>
+<div align="center" style="text-align: left; display: inline-block;">
 
+### 👨‍💻 About Me
 
+- 🎓 Graduated from **Tsinghua University (THU)**.
+- 🌱 Currently a student at the **University of Chinese Academy of Sciences (UCAS)**.
+- 🔭 My dream is to become a **Naturalist**.
+- ❤️ Hobbies: **Mathematics**, **Programming**, **Running**.
+- 🦖 Fun Fact: I'm fascinated by **dinosaurs** and **fish**! 🐠
+
+</div>
+
+<br>
+
+### 🛠️ My Tech Stack
+<p align="center">
+  <!-- 将下面的 "i=" 后面的内容替换成你自己的技术栈 -->
+  <!-- 查找更多图标: https://skillicons.dev/ -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,latex,vscode,git&perline=9" />
+  </a>
+</p>
+
+<br>
+
+### 📊 My GitHub Stats
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- 用户名已确认为 zhu-jl18 -->
+    <img src="https://github-readme-stats.vercel.app/api?username=zhu-jl18&show_icons=true&theme=buefy&icon_color=20B2AA&rank_icon=github" alt="zhu-jl18's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- 用户名已确认为 zhu-jl18 -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhu-jl18&layout=compact&theme=buefy&hide_border=true" alt="zhu-jl18's Top Languages" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhu-jl18/zhu-jl18/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhu-jl18/zhu-jl18/output/github-snake.svg" />
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/zhu-jl18/zhu-jl18/output/github-snake.svg" />
+  </picture>
+</div>
 
 <!--
-**zhu-jl18/zhu-jl18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+将下面的链接替换成你自己的社交媒体链接，如果不需要可以删除整行
 -->
+<p align="center">
+  <a href="mailto:your-email@example.com">Email</a> •
+  <a href="https://linkedin.com/in/your-linkedin-profile">LinkedIn</a> •
+  <a href="https://x.com/your-twitter-handle">X (Twitter)</a>
+</p>
 
