@@ -11,12 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master       
         with:
           disable_cache: true
           feed_list: "https://zhu-jl18.github.io/atom.xml"
           max_post_count: 5
-          date_format: "yyyy-mm-dd"
-          disable_html_encoding: true
-          # ⬇️ 这是我们全新的、非列表、居中设计的模板 ⬇️
-          template: '<div style="margin-bottom: 10px;"><a href="$url" style="text-decoration: none; color: #20B2AA; font-weight: 500; font-size: 1.1em;">$title</a><br><span style="color: #57606a; font-size: 0.9em;">$date</span></div>'
+          # ⬇️ 这是我们最终的、最简单、最可靠的模板 ⬇️
+          template: '<p align="center"><a href="$url" style="text-decoration: none; color: #20B2AA;">$title</a></p>'
