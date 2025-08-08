@@ -62,19 +62,30 @@
 </p>
 
 <br>
-
 ### 📊 My GitHub & LeetCode Stats
-<div align="center">
-  <!-- GitHub Stats Card (No Change, buefy theme is a clean light theme) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=zhu-jl18&show_icons=true&theme=buefy&icon_color=20B2AA&rank_icon=github" alt="zhu-jl18's GitHub Stats" />
-  </a>
-  
-  <!-- ✨ 高度定制化的 LeetCode 卡片 ✨ -->
-  <a href="https://leetcode.cn/u/sayaka-sato/">
-    <img src="https://leetcard.jacoblin.cool/sayaka-sato?theme=light&font=Nunito&site=cn&name=makoMako" alt="makoMako's LeetCode Stats"/>
-  </a>
-</div>
+
+<table border="0" cellpadding="10" cellspacing="0" align="center">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img 
+          alt="makoMako's GitHub Stats"
+          src="https://github-readme-stats.vercel.app/api?username=zhu-jl18&show_icons=true&theme=buefy&icon_color=20B2AA&rank_icon=github&title_color=20B2AA&text_color=718096"
+        />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://leetcode.cn/u/sayaka-sato/" style="color: #20B2AA; font-size: 1.2em; font-weight: 600; text-decoration: none;">makoMako's LeetCode Stats</a>
+      <br><br>
+      <a href="https://github.com/hello-jenn-park/leetcode-stats">
+        <img 
+          alt="makoMako's LeetCode Stats"
+          src="https://leet-stats.vercel.app/api?username=sayaka-sato&site=cn&theme=light&hide_border=true"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -82,13 +93,24 @@
 
 
 
-<br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- New Section: Recent Blog Posts (Automated) -->
-<div align="center">
+<div align="left">
   <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 0 16px 16px; max-width: 634px;">
     <h3 align="left">📝 Recent Blog Posts</h3>
-    <!-- BLOG-POST-LIST:START -->* <a href='https://zhu-jl18.github.io/2025/08/03/test-for-math/'>test-for-math</a><br>* <a href='https://zhu-jl18.github.io/2025/08/02/redeploy-record-by-llm/'>redeploy-record-by-llm</a><br>* <a href='https://zhu-jl18.github.io/2025/06/19/VsCode-LaTex-Settings/'>VsCode-LaTeX-Settings</a><br>* <a href='https://zhu-jl18.github.io/2022/06/18/Windows-Terminal-Config/'>Windows Terminal配置及其美化</a><br>* <a href='https://zhu-jl18.github.io/2021/11/15/English-Jill-Missed-Situation-and-BITE-and-KEEP/'>English-Jill-Missed-Situation-and-BITE-and-KEEP</a><br><!-- BLOG-POST-LIST:END -->
+    <!-- BLOG-POST-LIST:START --> - <a href='https://zhu-jl18.github.io/2025/08/03/test-for-math/'>test-for-math</a><br> * <a href='https://zhu-jl18.github.io/2025/08/02/redeploy-record-by-llm/'>redeploy-record-by-llm</a><br>* <a href='https://zhu-jl18.github.io/2025/06/19/VsCode-LaTex-Settings/'>VsCode-LaTeX-Settings</a><br>* <a href='https://zhu-jl18.github.io/2022/06/18/Windows-Terminal-Config/'>Windows Terminal配置及其美化</a><br>* <a href='https://zhu-jl18.github.io/2021/11/15/English-Jill-Missed-Situation-and-BITE-and-KEEP/'>English-Jill-Missed-Situation-and-BITE-and-KEEP</a><br><!-- BLOG-POST-LIST:END -->
   </div>
 </div>
 
