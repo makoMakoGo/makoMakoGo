@@ -70,12 +70,14 @@
     <img src="https://github-readme-stats.vercel.app/api?username=zhu-jl18&show_icons=true&theme=buefy&icon_color=20B2AA&rank_icon=github" alt="zhu-jl18's GitHub Stats" />
   </a>
   
-  <!-- ✨ New & Improved LeetCode Stats Card for China ✨ -->
-  <!-- This service supports LeetCode China (site=cn) -->
+  <!-- ✨ 更换为更稳定的 LeetCode 卡片服务 ✨ -->
   <a href="https://leetcode.cn/u/sayaka-sato/">
-    <img src="https://leetcode-stats.cyclic.app/api?user=sayaka-sato&site=cn&theme=dark&font=Fira%20Code&show_solved=true&show_ranking=true" alt="sayaka-sato's LeetCode Stats" />
+    <img src="https://stats.justsong.pro/api/leetcode?username=sayaka-sato&cn=true&theme=buefy&show_solved=true&show_progress=true" alt="sayaka-sato's LeetCode Stats" />
   </a>
 </div>
+
+
+
 
 
 <br>
