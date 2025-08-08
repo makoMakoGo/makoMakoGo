@@ -1,0 +1,36 @@
+name: Generate Snake Animation
+
+on:
+  # 每天 00:00 UTC 自动运行
+  schedule:
+    - cron: "0 0 * * *"
+  # 允许你手动在 Actions 页面触发此工作流
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          # (必填) 你的 GitHub 用户名
+          github_user_name: ${{ github.repository_owner }}
+
+          # (必填) 输出文件的列表和配置
+          # 每行一个文件，可以使用查询字符串来自定义选项
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          # 将生成的文件推送到名为 output 的分支
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
