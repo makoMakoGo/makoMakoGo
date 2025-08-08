@@ -1,11 +1,9 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs once a day at 00:00 UTC
-    - cron: '0 0 * * *'
-  # This line allows you to manually run the workflow from the Actions tab
+    # Runs every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
-
 
 jobs:
   update-readme-with-blog:
@@ -17,9 +15,10 @@ jobs:
         with:
           feed_list: "https://zhu-jl18.github.io/atom.xml"
           max_post_count: 5
-          # ✨ 全新的美化模板 ✨
-          template: '<li><a href="$url" style="text-decoration: none; color: #0969da; font-weight: 600;">$title</a><span style="float: right; color: #57606a; font-size: 0.9em;">$date</span></li>'
-          date_format: "yyyy-mm-dd" # 统一日期格式
-          disable_html_encoding: true # 允许使用我们自定义的HTML
+          # ✨ 最终美化模板：统一颜色、移除下划线并添加悬停效果 ✨
+          template: '<li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;"><a href="$url" style="text-decoration: none; color: #20B2AA; font-weight: 600;" onmouseover="this.style.color=''#1b9a91''" onmouseout="this.style.color=''#20B2AA''">$title</a><span style="color: #57606a; font-size: 0.9em;">$date</span></li>'
+          date_format: "yyyy-mm-dd"
+          disable_html_encoding: true
+
 
 
