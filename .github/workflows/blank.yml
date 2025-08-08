@@ -17,8 +17,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           # (必填) 你的 GitHub 用户名
-          github_user_name: ${{ github.repository_owner }}
-
+          github_user_name: zhu-jl18
           # (必填) 输出文件的列表和配置
           # 每行一个文件，可以使用查询字符串来自定义选项
           outputs: |
