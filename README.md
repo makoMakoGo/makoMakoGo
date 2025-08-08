@@ -1,3 +1,4 @@
+<img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp; 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=853DF7&Center=true&vCenter=true&random=true&width=360&height=40&lines=Hi+there,+I+am+makoMako~">
@@ -72,27 +73,38 @@
 
 <br>
 
-### 🛠️ My Tech Stack
+### 🐍 My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,latex,vscode,git&perline=9" />
   </a>
-</p>
+</p> 
 
 <br>
 
-### 📊 My GitHub 
+### 🌀 My GitHub 
 
-<!-- New Section: Recent Blog Posts (Automated) -->
   <div align="center" >
      <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
           alt="makoMako's GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=zhu-jl18&show_icons=true&theme=buefy&icon_color=20B2AA&rank_icon=github&title_color=20B2AA&text_color=718096"
-        />
+          src="https://github-readme-stats.vercel.app/api?username=zhu-jl18&show_icons=true&theme=graywhite&hide_border=true&card_width=500px" 
+        />  
     </a>
   </div>
-  
+<br>
+  <div align="center" >
+     <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img 
+          alt="makoMako's GitHub Stats" 
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=zhu-jl18&hide_border=true&card_width=490px&layout=compact&exclude_repo=My-Blog,zhu-jl18.github.io&title_color=434d58&langs_count=8" 
+        />  
+    </a>
+  </div>
+ 
+
+
+
 ### 📝 Recent Blog Posts
 <!-- New Section: Recent Blog Posts (Automated & Beautified) -->
 <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; max-width: 634px;">
