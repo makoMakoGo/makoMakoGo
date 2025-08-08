@@ -6,14 +6,18 @@
 
 <br>
 
+### 👨‍💻 About Me
 <div align="center" style="text-align: left; display: inline-block;">
 
-### 👨‍💻 About Me
-- 🎓 Graduated from **Tsinghua University (THU)**.
-- 🌱 Currently a student at the **University of Chinese Academy of Sciences (UCAS)**.
-- 🔭 My dream is to become a **Naturalist**.
-- ❤️ Hobbies: **Mathematics**, **Programming**, **Running**.
-- 🦖 Fun Fact: I'm fascinated by **dinosaurs** and **fish**! 🐠
+ 🎓 Graduated from **Tsinghua University (THU)**.
+ 
+ 🌱 Currently a student at the **University of Chinese Academy of Sciences (UCAS)**.
+ 
+ 🔭 My dream is to become a **Naturalist**.
+ 
+ ❤️ Hobbies: **Mathematics**, **Programming**, **Running**.
+ 
+ 🦖 Fun Fact: I'm fascinated by **dinosaurs** and **fish**! 🐠
 
 </div>
 
@@ -79,9 +83,16 @@
 
 ### 📝 Recent Blog Posts
 <!-- New Section: Recent Blog Posts (Automated & Beautified) -->
-<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; max-width: 634px;">
+<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; max-width: 634px;" >
   <ul style="list-style-type: none; padding-left: 0;">
-  <!-- BLOG-POST-LIST:START --><li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;"><a href="https://zhu-jl18.github.io/2025/08/03/test-for-math/" style="text-decoration: none; color: #20B2AA; font-weight: 600;">test-for-math</a><span style="color: #57606a; font-size: 0.9em;">2025-08-02</span></li><li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;"><a href="https://zhu-jl18.github.io/2025/08/02/redeploy-record-by-llm/" style="text-decoration: none; color: #20B2AA; font-weight: 600;">redeploy-record-by-llm</a><span style="color: #57606a; font-size: 0.9em;">2025-08-02</span></li><li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;"><a href="https://zhu-jl18.github.io/2025/06/19/VsCode-LaTex-Settings/" style="text-decoration: none; color: #20B2AA; font-weight: 600;">VsCode-LaTeX-Settings</a><span style="color: #57606a; font-size: 0.9em;">2025-06-19</span></li><li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;"><a href="https://zhu-jl18.github.io/2022/06/18/Windows-Terminal-Config/" style="text-decoration: none; color: #20B2AA; font-weight: 600;">Windows Terminal配置及其美化</a><span style="color: #57606a; font-size: 0.9em;">2022-06-18</span></li><li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;"><a href="https://zhu-jl18.github.io/2021/11/15/English-Jill-Missed-Situation-and-BITE-and-KEEP/" style="text-decoration: none; color: #20B2AA; font-weight: 600;">English-Jill-Missed-Situation-and-BITE-and-KEEP</a><span style="color: #57606a; font-size: 0.9em;">2021-11-15</span></li><!-- BLOG-POST-LIST:END -->
+    <!-- BLOG-POST-LIST:START -->
+<li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;"><a href="https://zhu-jl18.github.io/2025/08/03/test-for-math/" style="text-decoration: none; color: #20B2AA; font-weight: 600;">test-for-math</a><span style="color: #57606a; font-size: 0.9em;">2025-08-03</span></li>
+<li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;"><a href="https://zhu-jl18.github.io/2025/08/02/redeploy-record-by-llm/" style="text-decoration: none; color: #20B2AA; font-weight: 600;">redeploy-record-by-llm</a><span style="color: #57606a; font-size: 0.9em;">2025-08-02</span></li>
+<li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;"><a href="https://zhu-jl18.github.io/2025/06/19/VsCode-LaTex-Settings/" style="text-decoration: none; color: #20B2AA; font-weight: 600;">VsCode-LaTeX-Settings</a><span style="color: #57606a; font-size: 0.9em;">2025-06-19</span></li>
+<li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;"><a href="https://zhu-jl18.github.io/2022/06/18/Windows-Terminal-Config/" style="text-decoration: none; color: #20B2AA; font-weight: 600;">Windows Terminal配置及其美化</a><span style="color: #57606a; font-size: 0.9em;">2022-06-18</span></li>
+<li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;"><a href="https://zhu-jl18.github.io/2021/11/15/English-Jill-Missed-Situation-and-BITE-and-KEEP/" style="text-decoration: none; color: #20B2AA; font-weight: 600;">English-Jill-Missed-Situation-and-BITE-and-KEEP</a><span style="color: #57606a; font-size: 0.9em;">2021-11-15</span></li>
+<!-- BLOG-POST-LIST:END -->
+
   </ul>
 </div>
 
