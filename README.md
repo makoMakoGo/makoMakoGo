@@ -32,7 +32,7 @@
     <!-- Text Column -->
     <div style="flex: 1; text-align: left;">
       <p align="center">
-        <strong>Theorema Egregium</strong> (<em>"Remarkable Theorem"</em>)
+        <strong>Theorema Egregium</strong> 
       </p>
       <p>
         This theorem states that the Gaussian Curvature of a surface,
@@ -46,7 +46,7 @@
         is an intrinsic property invariant under local isometry.
       </p>
       <p style="text-align: right; margin-top: 10px; font-style: italic;">
-        — Carl Friedrich Gauss
+        — <em>Carl Friedrich Gauss</em>
       </p>
     </div>
   </div>
