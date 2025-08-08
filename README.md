@@ -9,7 +9,6 @@
 <div align="center" style="text-align: left; display: inline-block;">
 
 ### 👨‍💻 About Me
-
 - 🎓 Graduated from **Tsinghua University (THU)**.
 - 🌱 Currently a student at the **University of Chinese Academy of Sciences (UCAS)**.
 - 🔭 My dream is to become a **Naturalist**.
@@ -20,13 +19,14 @@
 
 <br>
 
-### 📐 Mathematical Musings
+### ➰ Mathematical Musings
 
 <div align="center">
   <!-- A new, composite block with image and text -->
   <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; max-width: 600px; display: flex; align-items: center; gap: 16px;">
     <!-- Image Column -->
     <div>
+      <!-- 图片文件名已更正为 Gauss.png -->
       <img src="https://raw.githubusercontent.com/zhu-jl18/zhu-jl18/main/assets/Gauss.png" width="120" alt="Sketch of Carl Friedrich Gauss">
     </div>
     <!-- Text Column -->
@@ -52,13 +52,10 @@
   </div>
 </div>
 
-
 <br>
 
 ### 🛠️ My Tech Stack
 <p align="center">
-  <!-- 将下面的 "i=" 后面的内容替换成你自己的技术栈 -->
-  <!-- 查找更多图标: https://skillicons.dev/ -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,latex,vscode,git&perline=9" />
   </a>
@@ -66,16 +63,29 @@
 
 <br>
 
-### 📊 My GitHub Stats
+### 📊 My GitHub & LeetCode Stats
 <div align="center">
+  <!-- GitHub Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <!-- 用户名已确认为 zhu-jl18 -->
     <img src="https://github-readme-stats.vercel.app/api?username=zhu-jl18&show_icons=true&theme=buefy&icon_color=20B2AA&rank_icon=github" alt="zhu-jl18's GitHub Stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <!-- 用户名已确认为 zhu-jl18 -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhu-jl18&layout=compact&theme=buefy&hide_border=true" alt="zhu-jl18's Top Languages" />
+  <!-- LeetCode Stats Card (新功能!) -->
+  <!-- 将 "your-leetcode-cn-id" 替换成你的力扣用户名 -->
+  <a href="https://leetcode-stats.vercel.app/api?username=sayaka-sato&theme=Dark">
+    <img src="https://leetcode-stats.vercel.app/api?username=sayaka-sato&theme=Dark" alt="LeetCode Stats" />
   </a>
+</div>
+
+<br>
+
+<!-- New Section: Recent Blog Posts (Automated) -->
+<div align="center">
+  <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 0 16px 16px; max-width: 634px;">
+    <h3 align="left">📝 Recent Blog Posts</h3>
+    <!-- BLOG-POST-LIST:START -->
+    <!-- 这个列表将由 GitHub Action 自动填充 -->
+    <!-- BLOG-POST-LIST:END -->
+  </div>
 </div>
 
 <br>
@@ -88,11 +98,4 @@
   </picture>
 </div>
 
-<!--
-将下面的链接替换成你自己的社交媒体链接，如果不需要可以删除整行
--->
-<p align="center">
-  <a href="mailto:your-email@example.com">Email</a> •
-  <a href="https://linkedin.com/in/your-linkedin-profile">LinkedIn</a> •
-  <a href="https://x.com/your-twitter-handle">X (Twitter)</a>
-</p>
+<br>
