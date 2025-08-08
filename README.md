@@ -21,17 +21,37 @@
 <br>
 
 ### 📐 Mathematical Musings
+
 <div align="center">
-  <p>My favorite mathematician is <strong>Carl Friedrich Gauss</strong>, and my favorite theorem is his</p>
-  <p><strong>Theorema Egregium</strong> (<em>"Remarkable Theorem"</em>).</p>
-  <br>
-  <a href="https://en.wikipedia.org/wiki/Theorema_Egregium">
-    <!-- This image is a rendered LaTeX formula for Gaussian Curvature -->
-    <img src="https://render.githubusercontent.com/render/math?math=\Large K = \kappa_1 \kappa_2" alt="Gaussian Curvature: K = k1 * k2"/>
-  </a>
-  <br>
-  <p>It shows that the curvature of a surface is an intrinsic property,<br>a profound insight that reshaped differential geometry.</p>
+  <!-- A new, composite block with image and text -->
+  <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; max-width: 600px; display: flex; align-items: center; gap: 16px;">
+    <!-- Image Column -->
+    <div>
+      <img src="https://raw.githubusercontent.com/zhu-jl18/zhu-jl18/main/assets/Gauss.png" width="120" alt="Sketch of Carl Friedrich Gauss">
+    </div>
+    <!-- Text Column -->
+    <div style="flex: 1; text-align: left;">
+      <p align="center">
+        <strong>Theorema Egregium</strong> (<em>"Remarkable Theorem"</em>)
+      </p>
+      <p>
+        This theorem states that the Gaussian Curvature of a surface,
+        <a href="https://en.wikipedia.org/wiki/Theorema_Egregium" style="vertical-align: middle;">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;K=\kappa_1\kappa_2">
+            <source media="(prefers-color-scheme: light)" srcset="https://latex.codecogs.com/svg.latex?\color{black}\Large&space;K=\kappa_1\kappa_2">
+            <img src="https://latex.codecogs.com/svg.latex?\color{black}\Large&space;K=\kappa_1\kappa_2" alt="Gaussian Curvature: K = k1 * k2"/>
+          </picture>
+        </a>,
+        is an intrinsic property invariant under local isometry.
+      </p>
+      <p style="text-align: right; margin-top: 10px; font-style: italic;">
+        — Carl Friedrich Gauss
+      </p>
+    </div>
+  </div>
 </div>
+
 
 <br>
 
