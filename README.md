@@ -62,44 +62,19 @@
 </p>
 
 <br>
-### 📊 My GitHub & LeetCode Stats
+### 📊 My GitHub 
 
-<table border="0" cellpadding="10" cellspacing="0" align="center">
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- New Section: Recent Blog Posts (Automated) -->
+  <div align="center" >
+     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
           alt="makoMako's GitHub Stats"
           src="https://github-readme-stats.vercel.app/api?username=zhu-jl18&show_icons=true&theme=buefy&icon_color=20B2AA&rank_icon=github&title_color=20B2AA&text_color=718096"
         />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://leetcode.cn/u/sayaka-sato/" style="color: #20B2AA; font-size: 1.2em; font-weight: 600; text-decoration: none;">makoMako's LeetCode Stats</a>
-      <br><br>
-      <a href="https://github.com/hello-jenn-park/leetcode-stats">
-        <img 
-          alt="makoMako's LeetCode Stats"
-          src="https://leet-stats.vercel.app/api?username=sayaka-sato&site=cn&theme=light&hide_border=true"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    </a>
+  </div>
+  
+ <p align="center">
 
 
 
