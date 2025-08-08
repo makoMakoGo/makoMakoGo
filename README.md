@@ -76,7 +76,7 @@
 ### 🐍 My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,latex,vscode,git&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,matlab,haskell,pytorch,html,css,latex,vscode,git&perline=9" />
   </a>
 </p> 
 
