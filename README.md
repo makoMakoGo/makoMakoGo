@@ -20,6 +20,21 @@
 
 <br>
 
+### 📐 Mathematical Musings
+<div align="center">
+  <p>My favorite mathematician is <strong>Carl Friedrich Gauss</strong>, and my favorite theorem is his</p>
+  <p><strong>Theorema Egregium</strong> (<em>"Remarkable Theorem"</em>).</p>
+  <br>
+  <a href="https://en.wikipedia.org/wiki/Theorema_Egregium">
+    <!-- This image is a rendered LaTeX formula for Gaussian Curvature -->
+    <img src="https://render.githubusercontent.com/render/math?math=\Large K = \kappa_1 \kappa_2" alt="Gaussian Curvature: K = k1 * k2"/>
+  </a>
+  <br>
+  <p>It shows that the curvature of a surface is an intrinsic property,<br>a profound insight that reshaped differential geometry.</p>
+</div>
+
+<br>
+
 ### 🛠️ My Tech Stack
 <p align="center">
   <!-- 将下面的 "i=" 后面的内容替换成你自己的技术栈 -->
@@ -61,4 +76,3 @@
   <a href="https://linkedin.com/in/your-linkedin-profile">LinkedIn</a> •
   <a href="https://x.com/your-twitter-handle">X (Twitter)</a>
 </p>
-
