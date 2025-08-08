@@ -71,7 +71,7 @@
   </a>
   <!-- LeetCode Stats Card (新功能!) -->
   <!-- 将 "your-leetcode-cn-id" 替换成你的力扣用户名 -->
-  <a href="https://leetcode-stats.vercel.app/api?username=sayaka-sato&theme=Dark">
+  <a href="https://leetcode-stats.vercel.app/api?username=makoMako&theme=Dark">
     <img src="https://leetcode-stats.vercel.app/api?username=sayaka-sato&theme=Dark" alt="LeetCode Stats" />
   </a>
 </div>
