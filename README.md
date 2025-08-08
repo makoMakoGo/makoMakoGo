@@ -81,8 +81,8 @@
   
 ### 📝 Recent Blog Posts
 <!-- New Section: Recent Blog Posts (Automated & Beautified) -->
-<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; max-width: 634px; text-align: center;">
-<!-- BLOG-POST-LIST:START --><div style="margin-bottom: 10px;"><a href="https://zhu-jl18.github.io/2025/08/03/test-for-math/" style="text-decoration: none; color: #20B2AA; font-weight: 500; font-size: 1.1em;">test-for-math</a><br><span style="color: #57606a; font-size: 0.9em;">2025-08-02</span></div><div style="margin-bottom: 10px;"><a href="https://zhu-jl18.github.io/2025/08/02/redeploy-record-by-llm/" style="text-decoration: none; color: #20B2AA; font-weight: 500; font-size: 1.1em;">redeploy-record-by-llm</a><br><span style="color: #57606a; font-size: 0.9em;">2025-08-02</span></div><div style="margin-bottom: 10px;"><a href="https://zhu-jl18.github.io/2025/06/19/VsCode-LaTex-Settings/" style="text-decoration: none; color: #20B2AA; font-weight: 500; font-size: 1.1em;">VsCode-LaTeX-Settings</a><br><span style="color: #57606a; font-size: 0.9em;">2025-06-19</span></div><div style="margin-bottom: 10px;"><a href="https://zhu-jl18.github.io/2022/06/18/Windows-Terminal-Config/" style="text-decoration: none; color: #20B2AA; font-weight: 500; font-size: 1.1em;">Windows Terminal配置及其美化</a><br><span style="color: #57606a; font-size: 0.9em;">2022-06-18</span></div><div style="margin-bottom: 10px;"><a href="https://zhu-jl18.github.io/2021/11/15/English-Jill-Missed-Situation-and-BITE-and-KEEP/" style="text-decoration: none; color: #20B2AA; font-weight: 500; font-size: 1.1em;">English-Jill-Missed-Situation-and-BITE-and-KEEP</a><br><span style="color: #57606a; font-size: 0.9em;">2021-11-15</span></div><!-- BLOG-POST-LIST:END -->
+<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; max-width: 634px;">
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 </div>
 
 
