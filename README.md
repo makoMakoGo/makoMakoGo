@@ -1,9 +1,31 @@
- ## Hello!  <img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp; 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=853DF7&hCenter=true&vCenter=true&random=true&width=300&height=20&lines=Hi+there,+I+am+makoMako~)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=853DF7&vCenter=true&random=true&width=500&height=60&lines=I+am+makoMako+~;a+makoshark+who+lives+in+Dirac+Sea)](https://git.io/typing-svg)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sayaka-sato?theme=wtf&font=Noto%20Sans%20Ol%20Chiki&ext=activity&site=cn)
+
+
+<h3 align="center">👋 Hi there, I'm Gift Egwuenu</h3>
+
+<p align="center">
+  <a href="">Website</a> •
+  <a href="">X</a> •
+  <a href="">LinkedIn</a> •
+  <a href="">YouTube</a>
+</p>
+
+---
+I'm a software engineer and developer advocate with a passion for building accessible websites and fostering inclusive developer communities.
+
+My philosophy is simple: share what I know, stay curious, and create space for others to grow. I enjoy making technical concepts approachable—whether through blog posts, videos, talks, or open source contributions.
+
+Outside of tech, I’m a content creator who enjoys photography, documenting life abroad, and perfecting the art of Nigerian Jollof 🔥
+
+---
+
+- 📫 Reach me on [X](_) or [email](mailto:zjl@thegiftcode.dev)  
+- 😄 Pronouns: He him
+
+
 
 <div>
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"/>
