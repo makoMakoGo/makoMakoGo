@@ -81,13 +81,16 @@
 
 
 
-<!-- New Section: Recent Blog Posts (Automated) -->
-<div align="left">
-  <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 0 16px 16px; max-width: 634px;">
-    <h3 align="left">📝 Recent Blog Posts</h3>
-    <!-- BLOG-POST-LIST:START -->* <a href='https://zhu-jl18.github.io/2025/08/03/test-for-math/'>test-for-math</a><br>* <a href='https://zhu-jl18.github.io/2025/08/02/redeploy-record-by-llm/'>redeploy-record-by-llm</a><br>* <a href='https://zhu-jl18.github.io/2025/06/19/VsCode-LaTex-Settings/'>VsCode-LaTeX-Settings</a><br>* <a href='https://zhu-jl18.github.io/2022/06/18/Windows-Terminal-Config/'>Windows Terminal配置及其美化</a><br>* <a href='https://zhu-jl18.github.io/2021/11/15/English-Jill-Missed-Situation-and-BITE-and-KEEP/'>English-Jill-Missed-Situation-and-BITE-and-KEEP</a><br><!-- BLOG-POST-LIST:END -->
-  </div>
+<!-- New Section: Recent Blog Posts (Automated & Beautified) -->
+<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; max-width: 634px;">
+  <h3 align="left">📝 Recent Blog Posts</h3>
+  <ul style="list-style-type: none; padding-left: 0;">
+  <!-- BLOG-POST-LIST:START -->
+  <!-- Your awesome blog list will be generated here -->
+  <!-- BLOG-POST-LIST:END -->
+  </ul>
 </div>
+
 
 <br>
 
