@@ -65,16 +65,18 @@
 
 ### 📊 My GitHub & LeetCode Stats
 <div align="center">
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats Card (No Change) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=zhu-jl18&show_icons=true&theme=buefy&icon_color=20B2AA&rank_icon=github" alt="zhu-jl18's GitHub Stats" />
   </a>
-  <!-- LeetCode Stats Card (新功能!) -->
-  <!-- 将 "your-leetcode-cn-id" 替换成你的力扣用户名 -->
-  <a href="https://leetcode-stats.vercel.app/api?username=makoMako&theme=Dark">
-    <img src="https://leetcode-stats.vercel.app/api?username=sayaka-sato&theme=Dark" alt="LeetCode Stats" />
+  
+  <!-- ✨ New & Improved LeetCode Stats Card for China ✨ -->
+  <!-- This service supports LeetCode China (site=cn) -->
+  <a href="https://leetcode.cn/u/sayaka-sato/">
+    <img src="https://leetcode-stats.cyclic.app/api?user=sayaka-sato&site=cn&theme=dark&font=Fira%20Code&show_solved=true&show_ranking=true" alt="sayaka-sato's LeetCode Stats" />
   </a>
 </div>
+
 
 <br>
 
