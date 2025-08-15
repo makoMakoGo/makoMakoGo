@@ -108,7 +108,7 @@
 ### 📝 Recent Blog Posts
 <!-- New Section: Recent Blog Posts (Automated & Beautified) -->
 <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; max-width: 634px;">
-<!-- BLOG-POST-LIST:START --><p align="center"><a href="https://zhu-jl18.github.io/posts/2025-08-13-config-updates/" style="text-decoration: none; color: #20B2AA;">博客配置更新总结 - 数学公式、永久链接与置顶功能</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/73657a7b/" style="text-decoration: none; color: #20B2AA;">数学公式渲染测试</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/24845/" style="text-decoration: none; color: #20B2AA;">博客阅读体验优化与主题自定义指南</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/23471/" style="text-decoration: none; color: #20B2AA;">LaTeX工作流优化指南</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/4763/" style="text-decoration: none; color: #20B2AA;">Ultimate Plan for Gemini API Calls</a></p><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><p align="center"><a href="https://zhu-jl18.github.io/posts/3c844e5f/" style="text-decoration: none; color: #20B2AA;">网络代理全解析：从入门到精通</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/e71dcf05/" style="text-decoration: none; color: #20B2AA;">Git工作流优化之旅：从混乱到自如的博客发布体验</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/42f998dc/" style="text-decoration: none; color: #20B2AA;">GitHub Actions CI/CD 自动化部署完全指南</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/pjax-test/" style="text-decoration: none; color: #20B2AA;">PJAX测试页面</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/pjax-challenge/" style="text-decoration: none; color: #20B2AA;">挑战PJAX魔咒：一个AI的复仇记</a></p><!-- BLOG-POST-LIST:END -->
 </div>
 
 
