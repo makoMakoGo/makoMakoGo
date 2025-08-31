@@ -21,7 +21,7 @@
 </p>
 
 
-### 😽 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" />   About Me
 <div align="center" style="text-align: left; display: inline-block;">
 
  🎓 Graduated from **Tsinghua University (THU)**.
@@ -73,7 +73,7 @@
 
 <br>
 
-### 🐍 My Tech Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" />  My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,matlab,haskell,pytorch,html,css,latex,vscode,git&perline=9" />
@@ -83,6 +83,7 @@
 <br>
 
 ### 🌀 My GitHub 
+
 
   <div align="center" >
      <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -116,6 +117,7 @@
 
 <br>
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25" height="25" />   Interesting Things
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhu-jl18/zhu-jl18/output/github-snake-dark.svg" />
