@@ -109,7 +109,7 @@
 ### 📝 Recent Blog Posts
 <!-- New Section: Recent Blog Posts (Automated & Beautified) -->
 <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; max-width: 634px;">
-<!-- BLOG-POST-LIST:START --><p align="center"><a href="https://zhu-jl18.github.io/posts/b23c6ab4/" style="text-decoration: none; color: #20B2AA;">🥰🫣🥵 啊！主人！对不起！我不敢！我再也不敢了！</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/4684f6b7/" style="text-decoration: none; color: #20B2AA;">飞机杯体验记录</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/76e0a401/" style="text-decoration: none; color: #20B2AA;">潇洒美少年</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/e71dcf05/" style="text-decoration: none; color: #20B2AA;">Git工作流优化之旅：从混乱到自如的博客发布体验</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/1a928d4e/" style="text-decoration: none; color: #20B2AA;">What-can-a-Free-Domain-Do</a></p><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><p align="center"><a href="https://zhu-jl18.github.io/posts/8a6ab0d0/" style="text-decoration: none; color: #20B2AA;">Gemini 2.5 Flash图像模型技术深度解析：一致性与指令理解的内在机制</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/e71dcf05/" style="text-decoration: none; color: #20B2AA;">Git工作流优化之旅：从混乱到自如的博客发布体验</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/af12132/" style="text-decoration: none; color: #20B2AA;">Records for my Proxy and 2api</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/4684f6b7/" style="text-decoration: none; color: #20B2AA;">飞机杯体验记录</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/76e0a401/" style="text-decoration: none; color: #20B2AA;">潇洒美少年</a></p><!-- BLOG-POST-LIST:END -->
 </div>
 
 
