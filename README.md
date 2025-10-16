@@ -50,18 +50,21 @@
     </div>
     <!-- Text Column -->
     <div style="flex: 1; text-align: left;">
+      <a href="https://en.wikipedia.org/wiki/Theorema_Egregium">
       <p align="center">
         <strong>Theorema Egregium</strong> 
       </p>
+      </a>
       <p>
-        This theorem states that the Gaussian Curvature of a surface,
-        <a href="https://en.wikipedia.org/wiki/Theorema_Egregium" style="vertical-align: middle;">
+        The product 
+        <a  style="vertical-align: middle;">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;K=\kappa_1\kappa_2">
             <source media="(prefers-color-scheme: light)" srcset="https://latex.codecogs.com/svg.latex?\color{black}\Large&space;K=\kappa_1\kappa_2">
             <img src="https://latex.codecogs.com/svg.latex?\color{black}\Large&space;K=\kappa_1\kappa_2" alt="Gaussian Curvature: K = k1 * k2"/>
           </picture>
-        </a>,
+        </a>
+        of a surface 
         is an intrinsic property invariant under local isometry.
       </p>
       <p style="text-align: right; margin-top: 10px; font-style: italic;">
