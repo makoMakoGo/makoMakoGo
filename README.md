@@ -79,7 +79,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" />  My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,matlab,haskell,pytorch,html,css,latex,vscode,git&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,matlab,haskell,go,latex,vscode,git,linux,docker,bash,cloudflare,deno,html,css,pytorch&perline=5" />
   </a>
 </p> 
 
