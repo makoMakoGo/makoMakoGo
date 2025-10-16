@@ -21,7 +21,7 @@
 </p>
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" />   About Me
+###  🐱 About Me
 <div align="center" style="text-align: left; display: inline-block;">
 
  🎓 Graduated from **Tsinghua University (THU)**.
@@ -76,7 +76,7 @@
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" />  My Tech Stack
+### 👻 My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,matlab,haskell,go,latex,vscode,git,linux,docker,bash,cloudflare,deno,html,css,pytorch&perline=5" />
