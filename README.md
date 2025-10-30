@@ -109,11 +109,13 @@
 
 
 
+<!-- 
 ### 📝 Recent Blog Posts
 <!-- New Section: Recent Blog Posts (Automated & Beautified) -->
 <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; max-width: 634px;">
 <!-- BLOG-POST-LIST:START --><p align="center"><a href="https://zhu-jl18.github.io/posts/5e06a6f0/" style="text-decoration: none; color: #20B2AA;">Thoughts</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/bfdcb374/" style="text-decoration: none; color: #20B2AA;">Simple AI Chat with Cloudflare Workers</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/a5942354/" style="text-decoration: none; color: #20B2AA;">Simple 2API for TalkAI</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/5705467b/" style="text-decoration: none; color: #20B2AA;">From jsDelivr To Cloudflare R2</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/82239bef/" style="text-decoration: none; color: #20B2AA;">Image Acc Workflow with cloudflare and PicList</a></p><!-- BLOG-POST-LIST:END -->
 </div>
+-->
 
 
 
