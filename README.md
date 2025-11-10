@@ -32,7 +32,7 @@
  
  ❤️ Hobbies: **Mathematics**, **Programming**, **Running**.
  
- 🦖 Fun Fact: I'm fascinated by **dinosaurs** and **fish**! 🐠
+ 🦖 Fun Fact: I'm fascinated by **dinosaurs** and **fish**! 
 
 </div>
 
