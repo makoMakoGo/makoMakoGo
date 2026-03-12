@@ -46,7 +46,7 @@
     <!-- Image Column -->
     <div>
       <!-- 图片文件名已更正为 Gauss.png -->
-      <img src="https://raw.githubusercontent.com/zhu-jl18/zhu-jl18/main/assets/Gauss.png" width="120" alt="Sketch of Carl Friedrich Gauss">
+      <img src="https://raw.githubusercontent.com/makoMakoGo/makoMakoGo/main/assets/Gauss.png" width="120" alt="Sketch of Carl Friedrich Gauss">
     </div>
     <!-- Text Column -->
     <div style="flex: 1; text-align: left;">
@@ -92,7 +92,7 @@
      <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
           alt="makoMako's GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=zhu-jl18&show_icons=true&theme=graywhite&hide_border=true&card_width=500px" 
+          src="https://github-readme-stats.vercel.app/api?username=makoMakoGo&show_icons=true&theme=graywhite&hide_border=true&card_width=500px" 
         />  
     </a>
   </div>
@@ -101,33 +101,19 @@
      <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
           alt="makoMako's GitHub Stats" 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=zhu-jl18&hide_border=true&card_width=490px&layout=compact&exclude_repo=My-Blog,zhu-jl18.github.io&title_color=434d58&langs_count=8" 
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=makoMakoGo&hide_border=true&card_width=490px&layout=compact&exclude_repo=My-Blog,zhu-jl18.github.io&title_color=434d58&langs_count=8" 
         />  
     </a>
   </div>
  
-
-
-
-<!--
-### 📝 Recent Blog Posts
-New Section: Recent Blog Posts (Automated & Beautified)
-<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; max-width: 634px;">
-BLOG-POST-LIST:START <p align="center"><a href="https://zhu-jl18.github.io/posts/5e06a6f0/" style="text-decoration: none; color: #20B2AA;">Thoughts</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/bfdcb374/" style="text-decoration: none; color: #20B2AA;">Simple AI Chat with Cloudflare Workers</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/a5942354/" style="text-decoration: none; color: #20B2AA;">Simple 2API for TalkAI</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/5705467b/" style="text-decoration: none; color: #20B2AA;">From jsDelivr To Cloudflare R2</a></p><p align="center"><a href="https://zhu-jl18.github.io/posts/82239bef/" style="text-decoration: none; color: #20B2AA;">Image Acc Workflow with cloudflare and PicList</a></p> BLOG-POST-LIST:END
-</div>
--->
-
-
-
-
 <br>
 
 ### 🐧  Interesting Things
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhu-jl18/zhu-jl18/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhu-jl18/zhu-jl18/output/github-snake.svg" />
-    <img alt="github snake animation" src="https://raw.githubusercontent.com/zhu-jl18/zhu-jl18/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/makoMakoGo/makoMakoGo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/makoMakoGo/makoMakoGo/output/github-snake.svg" />
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/makoMakoGo/makoMakoGo/output/github-snake.svg" />
   </picture>
 </div>
 
