@@ -1,111 +1,68 @@
-<img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp; 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=853DF7&Center=true&vCenter=true&random=true&width=360&height=40&lines=Hi+there,+I+am+makoMako~">
-  </a>
-</div>
+<h1 align="left">Hi 👋, I'm makoMakoGo</h1>
+<h3 align="left">Ph.D. student · LLM enthusiast · ChatGPT lover</h3>
 
-<br>
+- 🎓 Currently studying at **UCAS** after graduating from **THU**. 
+- 🛠️ Maintainer of **CC-Switch**; I like contributing to open source developer tools. 
+- 🧠 Working around **deep learning**, programming languages, and AI-assisted development. 
+- 🐟 Interests: mathematics, programming, running, dinosaurs, and fish. 
 
-<div align="center">
-  <img src="./assets/simpleicons-row.svg" width="320" alt="Decorative row of simple icons" />
-</div>
+### Code Agents
 
+I am highly skilled at vibe coding.
 
-###  🐱 About Me
-<div align="center" style="text-align: left; display: inline-block;">
+Daily code-agent stack: **Codex**, **Claude Code**, **ChatGPT**, **Pi**, **Droid**, and **Warp**.
 
- 🎓 Graduated from **Tsinghua University (THU)**.
- 
- 🌱 Currently a student at the **University of Chinese Academy of Sciences (UCAS)**.
- 
- 🔭 My dream is to become a **Naturalist**.
- 
- ❤️ Hobbies: **Mathematics**, **Programming**, **Running**.
- 
- 🦖 Fun Fact: I'm fascinated by **dinosaurs** and **fish**! 
+<p align="left">
+  <img src="assets/badges/codex.svg" alt="Codex">
+  <img src="assets/badges/claude-code.svg" alt="Claude Code">
+  <img src="assets/badges/chatgpt.svg" alt="ChatGPT">
+  <img src="assets/badges/oh-my-pi.svg" alt="Oh My Pi">
+  <img src="assets/badges/droid.svg" alt="Droid">
+  <img src="assets/badges/warp.svg" alt="Warp">
+</p>
 
-</div>
+### Languages and Tools
 
-<br>
+I am familiar with a wide range of programming languages and tools.
 
-### ➰ Mathematical Musings
+Core languages: **Python** and **Rust**, with Go, Haskell, MATLAB when useful.
 
-<div align="center">
-  <!-- A new, composite block with image and text -->
-  <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; max-width: 600px; display: flex; align-items: center; gap: 16px;">
-    <!-- Image Column -->
-    <div>
-      <!-- 图片文件名已更正为 Gauss.png -->
-      <img src="https://raw.githubusercontent.com/makoMakoGo/makoMakoGo/main/assets/Gauss.png" width="120" alt="Sketch of Carl Friedrich Gauss">
-    </div>
-    <!-- Text Column -->
-    <div style="flex: 1; text-align: left;">
-      <a href="https://en.wikipedia.org/wiki/Theorema_Egregium">
-      <p align="center">
-        <strong>Theorema Egregium</strong> 
-      </p>
-      </a>
-      <p>
-        The product 
-        <a  style="vertical-align: middle;">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;K=\kappa_1\kappa_2">
-            <source media="(prefers-color-scheme: light)" srcset="https://latex.codecogs.com/svg.latex?\color{black}\Large&space;K=\kappa_1\kappa_2">
-            <img src="https://latex.codecogs.com/svg.latex?\color{black}\Large&space;K=\kappa_1\kappa_2" alt="Gaussian Curvature: K = k1 * k2"/>
-          </picture>
-        </a>
-        of a surface 
-        is an intrinsic property invariant under local isometry.
-      </p>
-      <p style="text-align: right; margin-top: 10px; font-style: italic;">
-        — <em>Carl Friedrich Gauss</em>
-      </p>
-    </div>
-  </div>
-</div>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" /></a>&nbsp;
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" height="30" /></a>&nbsp;
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" height="30" /></a>&nbsp;
+  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/haskell/5D4F85" alt="Haskell" height="30" /></a>&nbsp;
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" height="30" /></a>&nbsp;
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/latex/008080" alt="LaTeX" height="30" /></a>&nbsp;
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" height="30" /></a>
+</p>
 
-<br>
+Frequently used tools: Docker, Deno, Node.js, Cloudflare, and Vercel.
 
-### 👻 My Tech Stack
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="30" /></a>&nbsp;
+  <a href="https://deno.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/deno/000000" alt="Deno" height="30" /></a>&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" height="30" /></a>&nbsp;
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" height="30" /></a>&nbsp;
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" height="30" /></a>
+</p>
+
+### GitHub Stats
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,matlab,haskell,go,latex,vscode,git,linux,docker,bash,cloudflare,deno,html,css,pytorch&perline=5" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      alt="makoMako's GitHub Stats"
+      src="https://github-readme-stats-deep-greys-projects.vercel.app/api?username=makoMakoGo&amp;show_icons=true&amp;theme=graywhite&amp;hide_border=true&amp;card_width=500"
+    />
   </a>
-</p> 
+</p>
 
-<br>
-
-### 🌀 My GitHub 
-
-
-  <div align="center" >
-     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img 
-          alt="makoMako's GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=makoMakoGo&show_icons=true&theme=graywhite&hide_border=true&card_width=500px" 
-        />  
-    </a>
-  </div>
-<br>
-  <div align="center" >
-     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img 
-          alt="makoMako's GitHub Stats" 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=makoMakoGo&hide_border=true&card_width=490px&layout=compact&exclude_repo=My-Blog,zhu-jl18.github.io&title_color=434d58&langs_count=8" 
-        />  
-    </a>
-  </div>
- 
-<br>
-
-### 🐧  Interesting Things
-<div align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/makoMakoGo/makoMakoGo/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/makoMakoGo/makoMakoGo/output/github-snake.svg" />
     <img alt="github snake animation" src="https://raw.githubusercontent.com/makoMakoGo/makoMakoGo/output/github-snake.svg" />
   </picture>
-</div>
-
-<br>
+</p>
